@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Afsal KA</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Expert;Building+AI+%26+SaaS+Products+Enthusiast;Future+Tech+Entrepreneur" />
+</p>
+
+
 <h3 align="center">🚀 Full-Stack Developer | AI & SaaS Builder | Problem Solver</h3>
 
 <p align="center">
